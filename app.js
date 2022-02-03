@@ -99,7 +99,3 @@ search.addEventListener("input",function(){
 })
 
 
-// further features
-// 1.Add Title
-// 2.Mark a note as important
-// 3.Separate notes by user
